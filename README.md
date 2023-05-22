@@ -1,12 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100" border-radius="50%";
-  overflow="hidden"/>
-  <div id="badges">
-    <a href="https://twitter.com/endjoy_forever">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
   <h1>
     Привет всем, меня зовут Алексей
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -28,6 +20,14 @@
 - :mailbox:Как со мной связаться: Telegram - [https://t.me/endjoyer](https://t.me/endjoyer),
                                   Email - alekseydevweb@gmail.com
 
+<div id="link" align="center">
+  <div id="badges">
+    <a href="https://twitter.com/endjoy_forever">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
