@@ -5,8 +5,6 @@
   </h1>
 </div>
 
----
-
 ### :woman_technologist: About Me :
 
 Я Frontend Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
@@ -28,6 +26,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
