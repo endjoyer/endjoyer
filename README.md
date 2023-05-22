@@ -18,7 +18,7 @@
 - :mailbox:Как со мной связаться: Telegram - [https://t.me/endjoyer](https://t.me/endjoyer),
                                   Email - alekseydevweb@gmail.com
 
-<div id="link">
+<div id="link" align="center">
   <div id="badges">
     <a href="https://twitter.com/endjoy_forever">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
