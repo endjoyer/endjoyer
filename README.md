@@ -18,10 +18,10 @@
 
 ### :mailbox: My contacts :
 <a href="https://t.me/endjoyer">
-  <img src="https://icons8.ru/icon/25n4hOEoY7ss/телеграмма-app" alt="Email" width="20" height="20"/>
+  <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="Telegram" alt="Email" width="20" height="20"/>
 </a>
 <a href="mailto:alekseydevweb@gmail.com">
-      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" alt="Email" width="20" height="20"/>
+      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" title="Email" alt="Email" width="20" height="20"/>
 </a>
 
 
@@ -58,8 +58,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=endjoyer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endjoyer/endjoyer/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endjoyer/endjoyer/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/endjoyer/endjoyer/main/github-contribution-grid-snake.svg">
-</picture>
