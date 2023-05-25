@@ -27,7 +27,7 @@
   <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="27"/>
 </a>
 <a href="mailto:alekseydevweb@gmail.com">
-      <img src="https://icons8.ru/icon/44829/новый-пост" title="Email" alt="Email" height="32"/>
+      <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="32"/>
 </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
