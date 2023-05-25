@@ -30,6 +30,12 @@
     <a href="https://twitter.com/endjoy_forever">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://t.me/endjoyer">
+  <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="Telegram" alt="Email" width="20" height="20"/>
+</a>
+<a href="mailto:alekseydevweb@gmail.com">
+      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" title="Email" alt="Email" width="20" height="20"/>
+</a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
