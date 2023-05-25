@@ -16,7 +16,7 @@
 - :globe_with_meridians: Хочу найти команду, с которой я мог бы вместе заниматься чем-то классным.
 
 <div id="link" align="center">
-  ### :mailbox: My contacts
+  <p font-size="20"> :mailbox: My contacts</p>
   <div id="badges">
     <a href="https://twitter.com/endjoy_forever">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -24,12 +24,12 @@
     <a href="https://t.me/endjoyer">
   <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="27"/>
 </a>
-    <div background="black">
+    <span background-color="black">
 <a href="mailto:alekseydevweb@gmail.com">
       <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="40"/>
+      <p color="white">alekseydevweb@gmail.com</p>
 </a>
-      <p color="white">alekseydevweb@gmail.com<p>
-      <div>
+      </span>
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
