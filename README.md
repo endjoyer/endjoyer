@@ -17,13 +17,6 @@
 
 
 ### :mailbox: My contacts :
-<a href="https://t.me/endjoyer">
-  <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="Telegram" alt="Email" width="20" height="20"/>
-</a>
-<a href="mailto:alekseydevweb@gmail.com">
-      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" title="Email" alt="Email" width="20" height="20"/>
-</a>
-
 
 <div id="link" align="center">
   <div id="badges">
@@ -31,10 +24,10 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://t.me/endjoyer">
-  <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="Telegram" alt="Email" width="20" height="20"/>
+  <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="30"/>
 </a>
 <a href="mailto:alekseydevweb@gmail.com">
-      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" title="Email" alt="Email" width="20" height="20"/>
+      <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email-9-svgrepo-com.svg" title="Email" alt="Email" height="30"/>
 </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
