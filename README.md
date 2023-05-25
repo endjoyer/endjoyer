@@ -34,7 +34,7 @@
 ---
 
 <div id="link" align="center">
-  <h2> :mailbox: My contacts</h3>
+  <h3> :mailbox: My contacts</h3>
   <br>
   <div id="badges">
      <a href="mailto:alekseydevweb@gmail.com">
@@ -42,7 +42,7 @@
         <p color="white">alekseydevweb@gmail.com</p>
      </a>
     <a href="https://t.me/endjoyer">
-   <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="29"/>
+   <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="28"/>
    </a>
     <a href="https://twitter.com/endjoy_forever">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
