@@ -18,10 +18,10 @@
 
 ### :mailbox: My contacts :
 <a href="https://t.me/endjoyer">
-  <img src="https://png.icons8.com/firewall/2266EE/24" title="Email" alt="Email" width="20" height="20"/>
+  <img src="https://icons8.ru/icon/25n4hOEoY7ss/телеграмма-app" alt="Email" width="20" height="20"/>
 </a>
 <a href="mailto:alekseydevweb@gmail.com">
-      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" title="Email" alt="Email" width="20" height="20"/>
+      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" alt="Email" width="20" height="20"/>
 </a>
 
 
