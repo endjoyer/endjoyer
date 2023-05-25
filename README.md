@@ -15,8 +15,15 @@
 
 - :globe_with_meridians: Хочу найти команду, с которой я мог бы вместе заниматься чем-то классным.
 
-- :mailbox:Как со мной связаться: Telegram - [https://t.me/endjoyer](https://t.me/endjoyer),
-                                  Email - alekseydevweb@gmail.com
+
+### :mailbox: My contacts :
+<a href="https://t.me/endjoyer">
+      <img src="https://icons8.ru/icon/25n4hOEoY7ss/телеграмма-app" title="Telegram" alt="Telegram" width="20" height="20"/>
+</a>
+<a href="mailto:alekseydevweb@gmail.com">
+      <img src="https://icons8.ru/icon/Ww1lcGqgduif/новый-пост" title="Email" alt="Email" width="20" height="20"/>
+</a>
+
 
 <div id="link" align="center">
   <div id="badges">
