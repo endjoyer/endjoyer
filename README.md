@@ -19,7 +19,12 @@
 
 <div id="link" align="center">
   <h3> :mailbox: My contacts</h3>
+  <br>
   <div id="badges">
+     <a href="mailto:alekseydevweb@gmail.com">
+        <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="40"/>
+        <p color="white">alekseydevweb@gmail.com</p>
+     </a>
     <a href="https://twitter.com/endjoy_forever">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -27,10 +32,6 @@
    <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="27"/>
    </a>
    <div background-color="black">
-    <a href="mailto:alekseydevweb@gmail.com">
-      <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="40"/>
-      <p color="white">alekseydevweb@gmail.com</p>
-     </a>
     </div>
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
