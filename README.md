@@ -40,7 +40,7 @@
 
 ---
 
-<div id="link" align="center">
+<div id="link">
   <h3> :mailbox: My contacts</h3>
   <br>
   <div id="badges">
