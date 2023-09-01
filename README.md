@@ -27,7 +27,6 @@
 ### :fire: My Stats :
 
 <div id="stat" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=endjoyer&theme=highcontrast&locale=ru" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=endjoyer&theme=dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=endjoyer&theme=github_dark" alt=""/>
