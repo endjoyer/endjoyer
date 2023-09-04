@@ -27,9 +27,14 @@
 ### :fire: My Stats :
 
 <div id="stat">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=endjoyer&theme=github_dark" alt=""/>
-    <img border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt=""/>
+    <img style="margin:0.5rem; border-color:black" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt="Aleksey's GitHub Stats"/>
+
+  <a href="https://github.com/endjoyer">
+    <img align="center" style="margin:0.5rem; border-color:black" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Aleksey's GitHub Stats"/>
+</a></br>
+   <a href="https://github.com/endjoyer">
+    <img style="margin:0.5rem; border-color:black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt="Aleksey's GitHub Stats"/>
+     </a>
 </div>
 
 ---
