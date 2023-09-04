@@ -29,10 +29,7 @@
 <div id="stat">
   <a href="https://github.com/endjoyer">
     <img style="margin:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt="Aleksey's GitHub Stats"/>
-</a>
-  <a href="https://github.com/endjoyer">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=endjoyer&theme=github_dark" alt="Aleksey's GitHub Stats"/>
-</a></br>
+</a>  
    <a href="https://github.com/endjoyer">
     <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt="Aleksey's GitHub Stats"/>
      </a>
