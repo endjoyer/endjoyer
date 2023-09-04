@@ -28,7 +28,7 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt=""/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=endjoyer&theme=dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=endjoyer&theme=github_dark" alt=""/>
 </div>
