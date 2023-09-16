@@ -45,9 +45,9 @@
         <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="40"/>
         <p color="white">alekseydevweb@gmail.com</p>
      </a>
-    <a href="https://t.me/endjoyer">
-   <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="28"/>
-   </a>
+     <a href="https://t.me/endjoyer">
+       <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="28"/>
+     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
