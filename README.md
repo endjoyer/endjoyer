@@ -1,4 +1,4 @@
-<div id="header" align="center"> 
+<div id="header" align="center">
   <h1>
     Привет всем, меня зовут Алексей
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
