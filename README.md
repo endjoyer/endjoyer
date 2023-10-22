@@ -24,19 +24,6 @@
 
 ---
 
-### :fire: My Stats :
-
-<div id="stat">
-  <a href="https://github.com/endjoyer">
-    <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt="Aleksey's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/endjoyer">
-    <img style="margin:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt="Aleksey's GitHub Stats"/>
-  </a>  
-</div>
-
----
-
 <div id="link" align="center">
   <h3> :mailbox: My contacts</h3>
   <br>
@@ -51,4 +38,19 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+<div id="stat">
+  <a href="https://github.com/endjoyer">
+    <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt="Aleksey's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/endjoyer">
+    <img style="margin:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt="Aleksey's GitHub Stats"/>
+  </a>  
+</div>
+
+
 
