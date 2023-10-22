@@ -20,7 +20,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-![My Skills](https://skillicons.dev/icons?i=react,js,html,css,webpack,figma,nodejs,mongodb,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css,webpack,figma,nodejs,mongodb,ts,redux,next,git&theme=dark)
 
 ---
 
