@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 
-Я Frontend Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я Frontend Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :smiling_face_with_three_hearts: Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.
 
