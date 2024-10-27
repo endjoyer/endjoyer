@@ -22,7 +22,20 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-![My Skills](https://skillicons.dev/icons?i=react,js,html,css,webpack,figma,nodejs,mongodb,ts,redux,next,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,next,vue,nuxtjs,nodejs,php,webpack,mongodb,mysql,git,figma,&theme=dark)
+
+---
+
+### :fire: My Stats :
+
+<div id="stat">
+  <a href="https://github.com/endjoyer">
+    <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt="Aleksey's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/endjoyer">
+    <img style="margin:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt="Aleksey's GitHub Stats"/>
+  </a>  
+</div>
 
 ---
 
@@ -41,18 +54,6 @@
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-
-### :fire: My Stats :
-
-<div id="stat">
-  <a href="https://github.com/endjoyer">
-    <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endjoyer&layout=compact&theme=dark" alt="Aleksey's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/endjoyer">
-    <img style="margin:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endjoyer&theme=dark" alt="Aleksey's GitHub Stats"/>
-  </a>  
-</div>
 
 
 
