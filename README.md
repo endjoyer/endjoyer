@@ -1,21 +1,21 @@
 <div id="header" align="center"> 
   <h1>
-    Привет всем, меня зовут Алексей
+    Hi everyone, my name is Aleksey
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 ### :woman_technologist: About Me :
 
-Я Frontend Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :smiling_face_with_three_hearts: Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.
+- :smiling_face_with_three_hearts: I love creating something new or improving existing things, making them into high-quality products that people can enjoy using.
 
-- :runner: Стремлюсь к улучшению своих навыков и расширению своего опыта.
+- :runner: I strive to improve my skills and expand my experience.
 
-- :globe_with_meridians: Хочу найти больше людей для общения и обмена опытом.
+- :globe_with_meridians: I want to connect with more people for communication and experience exchange.
 
-- 💻 Я всегда рад новым знакомствам и предложениям. 
+- 💻 I'm always open to new contacts and offers.
 
 ---
 
@@ -38,7 +38,7 @@
 ---
 
 <div id="link" align="center">
-  <h3> :mailbox: My contacts</h3>
+  <h3> :mailbox: My Contacts</h3>
   <br>
   <div id="badges">
      <a href="mailto:alekseydevweb@gmail.com">
@@ -51,6 +51,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 
