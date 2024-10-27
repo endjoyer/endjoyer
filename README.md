@@ -22,7 +22,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,next,vue,nuxtjs,nodejs,php,webpack,mongodb,mysql,git,figma,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,css,ts,react,redux,next,vue,nuxtjs,nodejs,php,webpack,mongodb,mysql,git,figma,&theme=dark)
 
 ---
 
