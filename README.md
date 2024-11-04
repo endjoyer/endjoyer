@@ -22,7 +22,6 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :hammer_and_wrench: Languages and Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=js,css,ts,react,redux,next,vue,nuxtjs,nodejs,php,webpack,mongodb,mysql,git,figma,&theme=dark)
-![Codewars](https://github.r2v.ch/codewars?user=endjoyer&stroke=%23BB432C)
 ---
 
 ### :fire: My Stats :
