@@ -41,11 +41,11 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <h3> :mailbox: My Contacts</h3>
   <br>
   <div id="badges">
-     <a href="mailto:alekseydevweb@gmail.com">
+     <a href="mailto:alek404sey@gmail.com">
         <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="40"/>
-        <p color="white">alekseydevweb@gmail.com</p>
+        <p color="white">alek404sey@gmail.com</p>
      </a>
-     <a href="https://t.me/endjoyer">
+     <a href="https://t.me/alek404sey">
        <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="28"/>
      </a>
   </div>
